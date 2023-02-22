@@ -1,0 +1,3 @@
+C:/Users/banko/Desktop/BME_VIK/I_felev/gitre/khf1/cmake-build-debug/CMakeFiles/khf01.dir
+C:/Users/banko/Desktop/BME_VIK/I_felev/gitre/khf1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/banko/Desktop/BME_VIK/I_felev/gitre/khf1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
